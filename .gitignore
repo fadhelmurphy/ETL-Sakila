@@ -1,0 +1,3 @@
+# Ignore .env file
+.env
+sakila_payment_details_cleaned.csv
